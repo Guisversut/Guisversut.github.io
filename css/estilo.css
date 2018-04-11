@@ -1,0 +1,41 @@
+.bg-fundo{
+	background: black;
+}
+
+.headerz{
+	align-content: center;
+	text-align: center;
+	background: #333300;
+}
+
+h1{
+	color: #ff9933; 
+	font-family: "Arial", Verdana, Sans-serif;
+}
+
+.background_white{
+	background: url("imagens/if__snorlax_1337513.png");
+}
+
+.espaco_top{
+	padding-top: 40px;
+}
+
+p{
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 20px;
+}
+
+.resumo{
+	padding-top: 50px
+}
+
+.img-site{
+	height: 32px;
+	width: 32px;
+	/*display: block;*/
+	background: url('imagens/Pokeball.png') !important;
+	background-color: blue;
+	/*background-size: contain;*/
+}
