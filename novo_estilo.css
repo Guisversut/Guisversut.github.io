@@ -20,14 +20,14 @@ h1{
 	padding-top: 40px;
 }
 
-p{
+.font-roman{
 	font-family: "Times New Roman", Times, serif;
 	color: black;
 	font-size: 20px;
 }
 
 .resumo{
-	padding-top: 50px;
+	margin-top: 50px;
 }
 
 .img-site{
@@ -35,4 +35,21 @@ p{
 	width: 32px;
 	background-image: url('imagens/Pokeball.png');
 
+}
+
+table, tr, td{
+	border: 1px solid black;
+	padding: 5px;
+}
+
+td{	
+	font-weight: bold;
+}
+
+#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+
+#t01 tr:nth-child(odd) {
+   background-color: #fff;
 }
