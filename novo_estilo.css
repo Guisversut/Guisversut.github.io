@@ -1,5 +1,10 @@
 .bg-fundo{
-	background:black;
+	display: table;
+	background: url('imagens/star-wars-background.jpg') no-repeat;
+	width: 100%;
+	height: 100vh;
+	background-position: 30%;
+	background-size: cover;
 }
 
 .headerz{
